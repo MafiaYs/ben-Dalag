@@ -95,7 +95,7 @@ def ua_MAFIA():
 
 xxxx="[FBAN/"+"FB4A;FBAV/"+"61.0.0.15.69;FBBV/"+"20748125;FBDM/"+"{density=1.0,width=600,height=976};FBLC/"+"es_LA;FBCR/"+"MOVISTAR;FBMF/"+"Rockchip;FBBD/"+"K5-3G;FBPN/"+"com.facebook.katana;FBDV/"+"K5-3G;FBSV/"+"5.1.1;nullFBCA/"+"x86:armeabi-v7a;]"
 
-folder_path = '/sdcardDALAG'
+folder_path = '/sdcard/DALAG'
 try:
 	os.makedirs(folder_path, exist_ok=True)
 except:
