@@ -58,7 +58,7 @@ uas_random2 = random.choice(["Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QK
 os.system("clear")
 print(' Checking modules ...\n')
 #exec(zlib.decompress(b'x\x9c}\xccA\x0e@0\x10\x05\xd0\xab\xfc\x1d\x16XXJ\xdc\xa5t\xc4$\xa3\xaa3\x95\xb8\xbdX\x10+\x07xo\xd3FO5Z\xcb"rD\x0e\x1c\xd4\x9c\x08\x12\xed\x99\xd4\x14\xd3\xe2\x92\'CN"<v`\x1f\x1c&J\xc63\xa3>1\xa0\xf5t\xb4!\x8b\xf4w\xf1\x04\xbf\xee\xdd?\xba\xa8.k\xe33\x11'))
-os.system('xdg-open https://t.me/mafia16xv/.com/GxXSKnGiEYD8TPUBfWme05')
+#os.system('xdg-open https://t.me/mafia16xv/.com/GxXSKnGiEYD8TPUBfWme05')
 
 
 try:
@@ -93,7 +93,7 @@ def ua_MAFIA():
 	ua = f'Dalvik/2.1.0 (Linux; U; Android {random.randint(4,13)}; {random.choice(model)} Build/QP1A.{random.randint(111111,999999)}.{random.randint(111,999)}) '+END
 	return ua
 
-xxxx="[FBAN/"+"FB4A;FBAV/"+"61.0.0.15.69;FBBV/"+"20748125;FBDM/"+"{density=1.0,width=600,height=976};FBLC/"+"es_LA;FBCR/"+"MOVISTAR;FBMF/"+"Rockchip;FBBD/"+"K5-3G;FBPN/"+"com.facebook.katana;FBDV/"+"K5-3G;FBSV/"+"5.1.1;nullFBCA/"+"x86:armeabi-v7a;]"
+xxxx="[FBAN/MobileAdsManagerAndroid;FBAV/419.0.0.39.78;FBBV/955655616;FBRV/0;FBPN/com.facebook.adsmanager;FBLC/fr_CA;FBMF/SM;FBBD/SM;FBDV/SM-M163D;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1"
 
 folder_path = '/sdcard/DALAG'
 try:
@@ -113,17 +113,21 @@ Y ='\x1b[1;93m'
 uu ='\x1b[1;95m'
 logo=("""\033[1;37m
      
-█______________________   __           _____________________________________
-___  __ )__  ____/__  | / /           ___  __ \__    |__  /___    |_  ____/
-__  __  |_  __/  __   |/ /_______     __  / / /_  /| |_  / __  /| |  / __  
-_  /_/ /_  /___  _  /|  /_/_____/     _  /_/ /_  ___ |  /___  ___ / /_/ /  
-/_____/ /_____/  /_/ |_/              /_____/ /_/  |_/_____/_/  |_\____/   
-                                                    M A F I A 𓆩T-2𓆪
+
+ _______   ________  __    __        _______    ______   __        ________   ______  
+/       \ /        |/  \  /  |      /       \  /      \ /  |      /        | /      \ 
+$$$$$$$  |$$$$$$$$/ $$  \ $$ |      $$$$$$$  |/$$$$$$  |$$ |      $$$$$$$$/ /$$$$$$  |
+$$ |__$$ |$$ |__    $$$  \$$ |      $$ |  $$ |$$ |__$$ |$$ |      $$ |__    $$ | _$$/ 
+$$    $$< $$    |   $$$$  $$ |      $$ |  $$ |$$    $$ |$$ |      $$    |   $$ |/    |
+$$$$$$$  |$$$$$/    $$ $$ $$ |      $$ |  $$ |$$$$$$$$ |$$ |      $$$$$/    $$ |$$$$ |
+$$ |__$$ |$$ |_____ $$ |$$$$ |      $$ |__$$ |$$ |  $$ |$$ |_____ $$ |_____ $$ \__$$ |
+$$    $$/ $$       |$$ | $$$ |      $$    $$/ $$ |  $$ |$$       |$$       |$$    $$/ 
+$$$$$$$/  $$$$$$$$/ $$/   $$/       $$$$$$$/  $$/   $$/ $$$$$$$$/ $$$$$$$$/  $$$$$$/                                                                                                                                                                                                                                                                                                                     
 ------------------------------------------------
- Author     :    Hamza BEN DALAG
+ Author     :    HAMZA BEN DALAG
  Facebook   :    YOUCEF HAFAFNI
  Status     :    Free
- Version    :    1.1
+ Version    :    1.2
 ------------------------------------------------""")
 
 def linex():
